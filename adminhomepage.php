@@ -125,10 +125,10 @@
     <div class="header">
         <h1>Admin Dashboard</h1>
         <nav class="menu">
-            <a href="admin_students.php" class="menu-item">Manage Students</a>
-            <a href="admin_faculty.php" class="menu-item">Manage Faculty</a>
-            <a href="admin_classes.php" class="menu-item">Manage Classes</a>
-            <a href="admin_report.php" class="menu-item">Generate Reports</a>
+            <a href="admin_studentslist.php" class="menu-item">Manage Students</a>
+            <a href="admin_teacherlist.php" class="menu-item">Manage Faculty</a>
+            <a href="admin_classlist.php" class="menu-item">Manage Classes</a>
+            <a href="admin_generatereports.php" class="menu-item">Generate Reports</a>
         </nav>
     </div>
 
